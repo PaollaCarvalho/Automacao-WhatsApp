@@ -1,5 +1,4 @@
 # Automacao-WhatsApp
-Automação simples de envio de mensagens por WhatsApp
 
 Este projeto é um exemplo de automação para enviar mensagens personalizadas a clientes via WhatsApp, desenvolvido em Python.
 O objetivo é demonstrar automação de processos repetitivos e ganho de eficiência. No projeto em questão, estamos fazendo o envio diário de mensagens para os clientes aniversáriantes, focado em processos de pós vendas. 
