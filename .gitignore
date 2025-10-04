@@ -1,0 +1,11 @@
+# Ignorar venv (ambiente virtual)
+venv/
+
+# Ignorar pasta de logs
+logs/
+
+# Ignorar pasta de dados
+data/
+
+# Ignorar arquivos temporários ou específicos
+*.pyc
